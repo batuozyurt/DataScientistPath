@@ -13,7 +13,7 @@ ipython_config.py
 *.DS_Store
 
 # .idea
-.idea/
+*.idea
 
 # Common IntelliJ Platform excludes
 
