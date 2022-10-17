@@ -9,9 +9,12 @@
 	 Comprehensions
 	 Data Analysis with Python: NumPy (Python ile Veri Analizi: NumPy)
 	 Data Analysis with Python: Pandas (Python ile Veri Analizi: Pandas)
+	 Data Analysis with Python: Data Visualization (Python ile Veri Görselleştirme)
+	 Data Analysis with Python: Advanced Functional Exploratory Data Analysis (Python ile Veri Analizi: Gelişmiş Fonksiyonel Keşifçi Veri Analizi)
 |  Case Studies |
 | ------------ |
 |  Python Exercises |
 |  List Comprehension ve Pandas |
+|  Calculating Potential Customer Return w/ Rule Based Classification |
 
 ---
