@@ -11,3 +11,6 @@ ipython_config.py
 
 # DS_store
 *.DS_Store
+
+# .idea
+*.idea
