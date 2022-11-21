@@ -1,5 +1,5 @@
 # Miuul & VBO Data Scientist Bootcamp
-[![M|Miuul](https://i.hizliresim.com/5427ebk.png)](https://www.miuul.com/)
+
 ---
 ### Python Programming with for Data Science (Veri Bilimi için Python Programlama)
 	 Working Environment Settings (Çalışma Ortamı Ayarları)
@@ -16,5 +16,12 @@
 |  Python Exercises |
 |  List Comprehension ve Pandas |
 |  Calculating Potential Customer Return w/ Rule Based Classification |
-
+### CRM Analytics
+	Customer Segmentation witf RFM
+	Customer Lifetime Value
+	Custumer Lifetime Value Prediction
+|  Case Studies |
+| ------------ |
+|  FLO Customer Segmentation with RFM |
+|  FLO CLTV Prediction |
 ---
